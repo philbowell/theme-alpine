@@ -25,9 +25,14 @@ blockquote {
 	padding-bottom: 30px;
 }
 
+nav.main-nav {
+	background: #eee;
+}
+
 /* Intro */
 
 .intro {
+	background: #eee;
 	padding: 2em;
 }
 
@@ -156,10 +161,6 @@ nav.main-nav {
 
 .gist-meta {
   display: none;
-}
-
-nav.main-nav {
-	background: #eee;
 }
 
 .site-title {

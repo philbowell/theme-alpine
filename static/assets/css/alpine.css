@@ -28,11 +28,11 @@ blockquote {
 /* Intro */
 
 .intro {
-	padding: 2em 1em;
+	padding: 2em;
 }
 
 .intro h1 {
-	line-height: 1em;
+	line-height: 0.5em;
 	margin-bottom: 0;
 }
 

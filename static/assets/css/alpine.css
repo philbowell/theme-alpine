@@ -158,6 +158,10 @@ nav.main-nav {
   display: none;
 }
 
+.main-nav {
+	background: #eee;
+}
+
 .site-title {
 	display: inline-block;
 	font-size: 14px;

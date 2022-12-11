@@ -28,16 +28,17 @@ blockquote {
 /* Intro */
 
 .intro {
-	max-width: 700px;
+	max-width: 1000px;
 	margin: auto;
-	padding: 2em 0 0 0;
+	padding: 2em 1em;
 }
 
 .intro h1 {
-	margin-bottom: 1em;
+	margin-bottom: 0;
 }
 
 .intro p {
+	font-size: 1.2em;
 	font-weight: 400;
 }
 

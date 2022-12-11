@@ -170,12 +170,6 @@ nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
 ul 	{ margin:0; padding:0; }
 li	{ list-style-type:circle; list-style-position:inside;}
 
-/* Intro */
-
-.intro {
-	max-width: 1000px;
-	margin: auto;
-}
 
 /* Post */
 

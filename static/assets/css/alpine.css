@@ -25,6 +25,13 @@ blockquote {
 	padding-bottom: 30px;
 }
 
+/* Intro */
+
+.intro {
+	max-width: 1000px;
+	margin: auto;
+}
+
 #post-meta {
 	display: none;
 }
